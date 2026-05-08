@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="wuwVaZ9xksJnHwKxPPjZ">
+    <mxGraphModel dx="1030" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dy5AMcgYBCapor8i9U7v-1" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.bag;" value="" vertex="1">
+          <mxGeometry height="120" width="160" x="80" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dy5AMcgYBCapor8i9U7v-2" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_protected;fillColor=#DA4026;" value="" vertex="1">
+          <mxGeometry height="52" width="38" x="141" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dy5AMcgYBCapor8i9U7v-4" edge="1" parent="1" source="dy5AMcgYBCapor8i9U7v-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dy5AMcgYBCapor8i9U7v-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dy5AMcgYBCapor8i9U7v-3" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Key.svg;" value="" vertex="1">
+          <mxGeometry height="50" width="31" x="410" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="dy5AMcgYBCapor8i9U7v-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;public&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="130" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="dy5AMcgYBCapor8i9U7v-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;private&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="395.5" y="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
