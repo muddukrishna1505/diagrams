@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="Do7Q34n1UBrXlKO7NLHP">
-    <mxGraphModel dx="936" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1288" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,10 +56,10 @@
           <mxGeometry height="72" width="69" x="54.230000000000004" y="309" as="geometry" />
         </mxCell>
         <mxCell id="yI81iPEu-BQco1Z-ybdq-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Load Balancer&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="90" x="33.23" y="387" as="geometry" />
+          <mxGeometry height="30" width="90" x="43.73" y="385" as="geometry" />
         </mxCell>
         <mxCell id="yI81iPEu-BQco1Z-ybdq-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Stateful applications&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="140" x="580" y="260" as="geometry" />
+          <mxGeometry height="30" width="140" x="580" y="250" as="geometry" />
         </mxCell>
         <mxCell id="yI81iPEu-BQco1Z-ybdq-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;CRUD&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="680" y="340" as="geometry" />
