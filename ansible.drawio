@@ -1,0 +1,78 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="STdcArZDaE0z2TIN00Kj">
+    <mxGraphModel dx="1880" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NH9uARDymQ89xSx8Dx8f-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="&lt;b&gt;CM Server&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-40" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9uARDymQ89xSx8Dx8f-5" edge="1" parent="1" source="NH9uARDymQ89xSx8Dx8f-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="NH9uARDymQ89xSx8Dx8f-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9uARDymQ89xSx8Dx8f-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" value="&lt;b&gt;NODE-1&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="160" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9uARDymQ89xSx8Dx8f-6" edge="1" parent="1" source="NH9uARDymQ89xSx8Dx8f-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NH9uARDymQ89xSx8Dx8f-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" value="&lt;b&gt;NODE-2&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="160" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9uARDymQ89xSx8Dx8f-7" edge="1" parent="1" source="NH9uARDymQ89xSx8Dx8f-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="NH9uARDymQ89xSx8Dx8f-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9uARDymQ89xSx8Dx8f-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" value="&lt;b&gt;NODE-3&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="160" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9uARDymQ89xSx8Dx8f-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;b&gt;agent&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="50" x="160" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9uARDymQ89xSx8Dx8f-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;b&gt;agent&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="50" x="160" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9uARDymQ89xSx8Dx8f-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;b&gt;agent&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="50" x="160" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9uARDymQ89xSx8Dx8f-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;1. extra agent software&lt;/b&gt;&lt;div&gt;&lt;b&gt;2. new protocol for agent to connect server&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;3. un necessary bandwidth and resources&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="-70" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9uARDymQ89xSx8Dx8f-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Chef&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="50" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9uARDymQ89xSx8Dx8f-17" edge="1" parent="1" source="NH9uARDymQ89xSx8Dx8f-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="NH9uARDymQ89xSx8Dx8f-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9uARDymQ89xSx8Dx8f-18" edge="1" parent="1" source="NH9uARDymQ89xSx8Dx8f-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="NH9uARDymQ89xSx8Dx8f-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9uARDymQ89xSx8Dx8f-19" edge="1" parent="1" source="NH9uARDymQ89xSx8Dx8f-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="NH9uARDymQ89xSx8Dx8f-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9uARDymQ89xSx8Dx8f-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="&lt;b&gt;CM Server&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9uARDymQ89xSx8Dx8f-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" value="&lt;b&gt;NODE-1&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="640" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9uARDymQ89xSx8Dx8f-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" value="&lt;b&gt;NODE-2&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="640" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9uARDymQ89xSx8Dx8f-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" value="&lt;b&gt;NODE-3&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="640" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9uARDymQ89xSx8Dx8f-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;SSH protocol&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="520" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9uARDymQ89xSx8Dx8f-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;push&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="530" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="NH9uARDymQ89xSx8Dx8f-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;it should allow ansible server on port 22&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="180" x="630" y="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
