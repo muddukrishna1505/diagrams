@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="BfNV8_ppic5qGG5IgW18">
+    <mxGraphModel dx="1030" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UhsdRswvDunI4_zk_z6i-3" edge="1" parent="1" source="UhsdRswvDunI4_zk_z6i-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="UhsdRswvDunI4_zk_z6i-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UhsdRswvDunI4_zk_z6i-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;ROLE-1&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="140" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="b04bw_Xg62PoJEhyACV0-2" edge="1" parent="1" source="UhsdRswvDunI4_zk_z6i-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="b04bw_Xg62PoJEhyACV0-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UhsdRswvDunI4_zk_z6i-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;common&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b04bw_Xg62PoJEhyACV0-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;ROLE-2&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="560" y="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

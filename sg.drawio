@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="USHsxUjVCKz7FrIQJC3f">
+    <mxGraphModel dx="1030" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fBtUCMs-GLWas0ThyyqR-4" edge="1" parent="1" source="fBtUCMs-GLWas0ThyyqR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="fBtUCMs-GLWas0ThyyqR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fBtUCMs-GLWas0ThyyqR-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;Ansible&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="140" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="fBtUCMs-GLWas0ThyyqR-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;NODE&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="460" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="fBtUCMs-GLWas0ThyyqR-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;NODE&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="480" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fBtUCMs-GLWas0ThyyqR-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;22&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="350" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="fBtUCMs-GLWas0ThyyqR-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;roboshop-node&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="455" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="fBtUCMs-GLWas0ThyyqR-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;roboshop-ansible&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="170" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="fBtUCMs-GLWas0ThyyqR-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="22 roboshop-ansible" vertex="1">
+          <mxGeometry height="30" width="180" x="590" y="250" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
